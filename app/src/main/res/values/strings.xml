@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muhammadnanda</string>
+    <string-array name="jalurs">
+        <item>Jalur Pendaftaran</item>
+        <item>Tes Tertulis</item>
+        <item>Tes Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
